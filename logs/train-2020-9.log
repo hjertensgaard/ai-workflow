@@ -1,0 +1,23 @@
+unique_id,timestamp,country,"(from_date, to_date)",eval_test,model_version,model_version_note,runtime
+6b29bda4-18c4-4256-8e93-48cced4a59b1,1599135050.1119711,portugal,"('2017-11-29', '2019-05-31')",{'rmse': 428.0},0.1,RandomForestRegression,000:00:05
+2c499288-f2c3-469c-85f8-e711026293b3,1599135053.6547892,united_kingdom,"('2017-11-29', '2019-05-31')",{'rmse': 19639.0},0.1,RandomForestRegression,000:00:03
+6a53ae76-acec-42e0-b305-609693023218,1599135055.5664,hong_kong,"('2018-04-19', '2019-05-01')",{'rmse': 827.0},0.1,RandomForestRegression,000:00:01
+c68b886c-7ed1-4b34-ba8b-179dd2fc5590,1599135059.214761,eire,"('2017-11-29', '2019-05-31')",{'rmse': 1211.0},0.1,RandomForestRegression,000:00:03
+b46c49d1-f580-4d88-987d-5b2b15a51cec,1599135063.1004522,spain,"('2017-12-01', '2019-05-31')",{'rmse': 206.0},0.1,RandomForestRegression,000:00:03
+d62c9f53-7608-4553-a3af-28534ff29c4f,1599135065.995522,france,"('2017-11-29', '2019-05-31')",{'rmse': 557.0},0.1,RandomForestRegression,000:00:02
+407a8abf-0842-4262-8c84-ca1ffaf7a056,1599135068.003576,singapore,"('2018-04-25', '2019-05-12')",{'rmse': 2377.0},0.1,RandomForestRegression,000:00:02
+81bce1e7-ee6a-4078-a47f-e239e45c50d6,1599135071.351698,all,"('2017-11-29', '2019-05-31')",{'rmse': 17236.0},0.1,RandomForestRegression,000:00:03
+c75a031d-5a00-4d51-a249-31792f9addc0,1599135073.5671759,norway,"('2017-12-05', '2019-05-11')",{'rmse': 80.0},0.1,RandomForestRegression,000:00:02
+9a038f0a-4454-4d97-9668-649e9e518a5c,1599135076.592546,germany,"('2017-11-29', '2019-05-31')",{'rmse': 484.0},0.1,RandomForestRegression,000:00:03
+203ed7a3-8beb-4729-bae7-214c1b7a90a7,1599135079.436453,netherlands,"('2017-11-30', '2019-05-31')",{'rmse': 152.0},0.1,RandomForestRegression,000:00:02
+afd66b5a-01f0-4aef-9249-43025577b94d,1599135243.232703,portugal,"('2017-11-29', '2019-05-31')",{'rmse': 1438.0},0.2,SGDRegression,000:00:03
+74892a8b-dbce-4ff2-83cc-5895db24aa26,1599135245.242399,united_kingdom,"('2017-11-29', '2019-05-31')",{'rmse': 53657.0},0.2,SGDRegression,000:00:02
+fe9d8eee-8c90-4326-afd4-cf88e053da3c,1599135246.888664,hong_kong,"('2018-04-19', '2019-05-01')",{'rmse': 1657.0},0.2,SGDRegression,000:00:01
+9a43e86b-cb1a-4ace-89d2-a6793098ebcb,1599135248.801464,eire,"('2017-11-29', '2019-05-31')",{'rmse': 3233.0},0.2,SGDRegression,000:00:01
+51bf758b-ca3f-4cf5-96e2-928fa257090d,1599135250.7320771,spain,"('2017-12-01', '2019-05-31')",{'rmse': 753.0},0.2,SGDRegression,000:00:01
+c777b30f-32e0-4c52-bfb7-d01e250b4086,1599135252.6973581,france,"('2017-11-29', '2019-05-31')",{'rmse': 976.0},0.2,SGDRegression,000:00:01
+5ee0d745-95c4-47f5-9a9e-d9b6fe996bbb,1599135254.141576,singapore,"('2018-04-25', '2019-05-12')",{'rmse': 4244.0},0.2,SGDRegression,000:00:01
+bc06892f-bf44-479e-8b18-e396ffbcd2d4,1599135256.050692,all,"('2017-11-29', '2019-05-31')",{'rmse': 55844.0},0.2,SGDRegression,000:00:01
+2a4845c4-10e0-4f32-80d9-318830323979,1599135257.863379,norway,"('2017-12-05', '2019-05-11')",{'rmse': 374.0},0.2,SGDRegression,000:00:01
+9db989d8-a3ad-4abb-8395-94fd7fa6130e,1599135259.789589,germany,"('2017-11-29', '2019-05-31')",{'rmse': 902.0},0.2,SGDRegression,000:00:01
+1d49d877-6e20-4589-b8bd-73185efe56ad,1599135261.730149,netherlands,"('2017-11-30', '2019-05-31')",{'rmse': 327.0},0.2,SGDRegression,000:00:01

@@ -1,0 +1,7 @@
+
+cython
+numpy
+flask
+pandas
+matplotlib
+scikit-learn

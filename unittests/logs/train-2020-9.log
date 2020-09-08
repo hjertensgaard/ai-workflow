@@ -1,0 +1,12 @@
+unique_id,timestamp,country,"(from_date, to_date)",eval_test,model_version,model_version_note,runtime
+1981deb5-8863-47ff-9ea0-55d9f2ae1e35,1599130680.133114,portugal,"('2017-11-29', '2019-05-31')",{'rmse': 171.0},0.1,supervised learing model for time-series,000:00:05
+30376f90-1b31-40ea-9ba2-849fec24b672,1599130683.451361,united_kingdom,"('2017-11-29', '2019-05-31')",{'rmse': 19246.0},0.1,supervised learing model for time-series,000:00:03
+ee465943-dffe-4df5-8a7b-b3f8fac7e70e,1599130685.3806,hong_kong,"('2018-04-19', '2019-05-01')",{'rmse': 904.0},0.1,supervised learing model for time-series,000:00:01
+352ffc5d-568b-4889-a9c5-d856c587b3c4,1599130688.693047,eire,"('2017-11-29', '2019-05-31')",{'rmse': 1192.0},0.1,supervised learing model for time-series,000:00:03
+5be5c062-48c4-416e-905c-06be6c3ef33f,1599130691.918485,spain,"('2017-12-01', '2019-05-31')",{'rmse': 333.0},0.1,supervised learing model for time-series,000:00:03
+25907a9c-9034-45f2-b7aa-d170175c5675,1599130695.109108,france,"('2017-11-29', '2019-05-31')",{'rmse': 614.0},0.1,supervised learing model for time-series,000:00:03
+992b576f-ef91-4f07-9c3f-ffa1a7e4621e,1599130697.14161,singapore,"('2018-04-25', '2019-05-12')",{'rmse': 2360.0},0.1,supervised learing model for time-series,000:00:02
+b17df77d-c10a-4438-a229-1bd021d4e5d5,1599130700.422244,all,"('2017-11-29', '2019-05-31')",{'rmse': 19002.0},0.1,supervised learing model for time-series,000:00:03
+e22aaf08-8614-497b-9e9b-0666fc0a9ca0,1599130702.893867,norway,"('2017-12-05', '2019-05-11')",{'rmse': 65.0},0.1,supervised learing model for time-series,000:00:02
+9627f225-d26c-4830-9a44-d4a6840764c8,1599130706.646265,germany,"('2017-11-29', '2019-05-31')",{'rmse': 488.0},0.1,supervised learing model for time-series,000:00:03
+4d5ae5ec-fdae-4ecc-82c2-7fa8bdcdc775,1599130709.6505752,netherlands,"('2017-11-30', '2019-05-31')",{'rmse': 123.0},0.1,supervised learing model for time-series,000:00:03
